@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/furniture-webiste/static/css/main.4aa0d003.css",
+    "main.js": "/furniture-webiste/static/js/main.9177110a.js",
+    "static/media/table.jpeg": "/furniture-webiste/static/media/table.f620b2e6322d65156097.jpeg",
+    "static/media/bed.jpeg": "/furniture-webiste/static/media/bed.1b57cf0936776dbbeef8.jpeg",
+    "static/media/sofa.jpeg": "/furniture-webiste/static/media/sofa.5859ceb1c3c386fb9210.jpeg",
+    "static/media/logo.jpg": "/furniture-webiste/static/media/logo.a7aae48f111d719e7cfc.jpg",
+    "index.html": "/furniture-webiste/index.html",
+    "main.4aa0d003.css.map": "/furniture-webiste/static/css/main.4aa0d003.css.map",
+    "main.9177110a.js.map": "/furniture-webiste/static/js/main.9177110a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4aa0d003.css",
+    "static/js/main.9177110a.js"
+  ]
+}
